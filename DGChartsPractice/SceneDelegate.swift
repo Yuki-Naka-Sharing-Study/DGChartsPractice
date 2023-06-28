@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  MyGraphs
+//  DGChartsPractice
 //
 //  Created by 仲優樹 on 2023/06/29.
 //
